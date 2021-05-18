@@ -18,6 +18,7 @@ header {
 nav {
     padding: 10px 40px;
     background-image:url("image/IMG_4146.JPG")
+    /* background-image: url("images/IMG_4146.JPG"); */
     background-color: lightsteelblue;
     color: white;
     font-size: 20px
